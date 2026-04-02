@@ -1,6 +1,8 @@
 # TAA-Denoiser---Remove-Noise-and-Jitter
 a reshade shader uses depth map based denoiser to reduce noise and jitter when taa is forced off in games by third party solutions 
 
+USE WITH \\\\\    https://github.com/FR33THYFR33THY/Disable-Anti-Aliasing
+
 https://www.reddit.com/r/FuckTAA/comments/1sahl2z/crimson_desert_taa_off_with_jitter_and_noise_fix/
 
 
